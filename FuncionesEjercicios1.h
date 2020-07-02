@@ -26,6 +26,11 @@ string condicion = "";
 /// </summary>
 /// <returns>toda la informacion de la funcion</returns>
 
+
+/// <summary>
+/// Esta es una funcion que utiliza entrada y salida
+/// </summary>
+/// <returns>gahsghagsh</returns>
 int EntradaSalida() {
 
 	cout << endl;
