@@ -30,7 +30,7 @@ string condicion = "";
 /// <summary>
 /// Esta es una funcion que utiliza entrada y salida
 /// </summary>
-/// <returns>gahsghagsh</returns>
+/// <returns>esta funcion retorna</returns>
 int EntradaSalida() {
 
 	cout << endl;
